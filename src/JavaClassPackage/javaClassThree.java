@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class javaClassThree {
 
 	
-	
+	String myName = "Rana";
 	
 	WebDriver driver = new ChromeDriver();
 	String URL = "https://www.saucedemo.com/";
